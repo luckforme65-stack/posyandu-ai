@@ -1,0 +1,12 @@
+{
+  "name": "PosyanduAI",
+  "short_name": "PosyanduAI",
+  "description": "AI assistant for Indonesia's Posyandu kaders, powered by Xiaomi MiMo.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAFBFC",
+  "theme_color": "#2D7DD2",
+  "icons": [
+    { "src": "/icon-192.svg", "sizes": "192x192", "type": "image/svg+xml" }
+  ]
+}
